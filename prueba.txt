@@ -1,0 +1,13 @@
+hola 
+como 
+estas
+bien y 
+
+tu
+no se que hacer
+este teto se agrego en la rama cabecera
+<<<<<<< HEAD
+esto es en master
+=======
+esto es es cabecera
+>>>>>>> cabecera
